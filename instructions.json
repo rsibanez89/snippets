@@ -349,7 +349,7 @@
 			"- Create separate models for inputs (Create/Update) and outputs (Response).",
 			"- Use distinct Response models (e.g., `UserResponse`) acting as View Models.",
 			"- Enable `from_attributes = True` (ConfigDict) for ORM mapping.",
-			"- Map ORM objects to Response models in the Service or Router. ",
+			"- Map ORM objects to Response models in the Service or Router.",
 			"",
 			"### Entities (SQLAlchemy Models)",
 			"",
