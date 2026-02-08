@@ -1,5 +1,5 @@
 {
-	"copilot-instuctions-nestjs": {
+	"copilot-instructions-nestjs": {
 		"prefix": "ci",
 		"body": [
 			"# Simple NestJs Project Instructions",
@@ -133,7 +133,7 @@
 		],
 		"description": "Copilot instructions for NestJs"
 	},
-	"copilot-instuctions-dotnet": {
+	"copilot-instructions-dotnet": {
 		"prefix": "ci-dotnet",
 		"body": [
 			"# Simple .NET Core Project Instructions",
